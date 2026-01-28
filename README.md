@@ -1,4 +1,4 @@
-# 📌 Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (<a href="https://openreview.net/forum?id=EIYltBaUzL">ICLR 2026</a>)
+# Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (<a href="https://openreview.net/forum?id=EIYltBaUzL">ICLR 2026</a>)
 
 
 **Desong Zhang, Jia Hu, Geyong Min**  
